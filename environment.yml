@@ -2,7 +2,7 @@ channels:
   - conda-forge
 dependencies:
   - appmode
-  - python-2.7
+  - python 2.7
   - networkx==1.11
   - matplotlib
   - numpy
